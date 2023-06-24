@@ -18,17 +18,18 @@ display: inline;
 <div class="page-header">
 	<div class="container">
 		<div class="page-header-inner">
-			<ol class="breadcrumb wow fadeInDown" data-wow-delay="300ms">
+			<ol class="hidden-sm hidden-xs breadcrumb wow fadeInDown" data-wow-delay="300ms">
 				<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>index.html">Principal</a></li>
 				<li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>archive.html">Presentations</a></li>
 				<li class="page">${content.title}</li>
 			</ol>
 			<div class="row">
 			<div class="col-md-10 col-sm-10 col-xs-12">
-			<h1 class="page-title wow fadeInRight" data-wow-delay="300ms">
+			<h1 class="hidden-sm hidden-xs page-title wow fadeInRight" data-wow-delay="300ms">
 				
 				${content.title}<#if (content.countryiso)??> <span class="fi fi-${content.countryiso}"></span></#if> <#if (content.language)??>- ${content.language}<#else></#if>
 			</h1>
+
 			</div>
 			</div>
 		</div>
@@ -38,7 +39,13 @@ display: inline;
 <section id="${content.title}" class="section">
 
 	<div class="container">
-
+<div class="visible-sm visible-xs row">
+	<div class="col-md-12 col-sm-12 col-xs-12">
+	<h1 class="page-title wow fadeInRight" data-wow-delay="300ms">
+		${content.title}<#if (content.countryiso)??> <span class="fi fi-${content.countryiso}"></span></#if> <#if (content.language)??>- ${content.language}<#else></#if>
+	</h1>
+	</div>
+</div>
 <div class="row">
 	<div class="col-md-12 col-sm-12 col-xs-12">
 	${content.body}

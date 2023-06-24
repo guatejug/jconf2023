@@ -331,6 +331,7 @@
 <section id="Presentations list" class="section">
 	<div class="container">
 		<div class="row">
+			<div class="col-md-12 col-sm-12 col-xs-12">
 				<#list published_posts?sort_by("category") as post>
 
 				<#if (last_tag)??>
@@ -348,6 +349,7 @@
 				<#assign last_tag = post.category>
 				</#list>
 			</ul>
+			</div>
 		</div>
 	</div>
 </section>
