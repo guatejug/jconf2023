@@ -30,6 +30,10 @@ jobs:
     - name: Build with Maven
       run: mvn -s settings.xml -B jbake:generate --file pom.xml
     - name: Publish site
+      env:
+        FTP_URL: ${{ secrets.FTP_URL }}
+        FTP_USER: ${{ secrets.FTP_USER }}
+        FTP_PASSWORD: ${{ secrets.FTP_PASSWORD }}
       run: mvn -s settings.xml -B wagon:upload@upload-site --file pom.xml
     # Optional: Uploads the full dependency graph to GitHub to improve the quality of Dependabot alerts this repository can receive
     - name: Update dependency graph
