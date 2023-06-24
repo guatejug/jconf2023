@@ -1,4 +1,4 @@
-package com.vorozco;
+package net.guate_jug;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
