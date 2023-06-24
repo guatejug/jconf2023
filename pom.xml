@@ -56,7 +56,7 @@
               <fromDir>${project.build.directory}/${project.build.finalName}</fromDir>
               <includes>**</includes>
               <url>${env.FTP_URL}</url>
-              <toDir>javaday2023</toDir>
+              <toDir>jconf2023</toDir>
               <serverId>jugserver</serverId>
             </configuration>
           </execution>

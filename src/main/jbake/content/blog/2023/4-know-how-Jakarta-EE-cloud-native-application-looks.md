@@ -8,7 +8,6 @@ twitter=fabturizo
 img=fabio.jpg
 language=Español
 ~~~~~~
-
 ## Description
 
 Jakarta EE 10 has arrived and along with Eclipse MicroProfile, it has paved the way for Enterprise Java developers to develop easy-to-maintain, powerful applications that can be deployed on almost any environment. Jakarta EE applications can now be cloud-native applications and they should no longer be constrained by how they used to look 15~20 years ago. DevOps engineers will greatly benefit from this talk in which we’ll analyse the anatomy of a Jakarta EE application that’s geared to be cloud-native, and how these applications can benefit using standards to their benefit and longevity.

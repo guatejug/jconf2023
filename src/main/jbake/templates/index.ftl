@@ -23,9 +23,9 @@
           <div class="item">
             <img src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/slider/bg-2.jpg" alt="">
             <div class="carousel-caption">
-              <h2 class="wow fadeInUp" data-wow-delay="300ms">Schedule will be available soon</h2>
+              <h2 class="wow fadeInUp" data-wow-delay="300ms">Presentations available now!</h2>
               <div class="buttons">
-              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2019/archive.html">See our previous event for reference</a></div>
+              <div class="buttons wow fadeInDown" data-wow-delay="0.2s"><a class="btn btn-lg btn-border" href="http://www.guate-jug.net/jconf2023/archive.html">Presentations</a></div>
               </div>
               <a data-scroll href="#featured">
               <div class="rev-scroll-btn wow fadeInUp" data-wow-delay="600ms">

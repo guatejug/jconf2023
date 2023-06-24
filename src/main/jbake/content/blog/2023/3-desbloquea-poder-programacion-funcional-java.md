@@ -1,14 +1,13 @@
 title=Desbloquea el Poder de la Programación Funcional en Java
 date=2023-06-24
 type=post
-tags=Java Core
+tags=Java Platform
 status=published
 category=Java Platform
 twitter=maxein
 img=max.jpg
 language=Español
 ~~~~~~
-
 ## Description
 
 Mira cómo la programación funcional en Java puede transformar tus programas a través de potentes operaciones como la inmutabilidad, la composición de funciones, el filtrado, el mapeo y la reducción.
@@ -25,4 +24,3 @@ Max Cerna, Ingeniero en Ciencias y Sistemas, Java Technical Lead, asi como DBA e
 
 - https://twitter.com/maxein
 - https://www.linkedin.com/in/max-cerna/
-
