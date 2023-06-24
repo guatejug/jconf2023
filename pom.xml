@@ -24,14 +24,55 @@
       <version>5.8.2</version>
     </dependency>
   </dependencies>
-
   <build>
-    <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+    <pluginManagement>
       <plugins>
         <plugin>
           <artifactId>maven-surefire-plugin</artifactId>
           <version>3.0.0-M5</version>
         </plugin>
+        <plugin>
+          <groupId>org.jbake</groupId>
+          <artifactId>jbake-maven-plugin</artifactId>
+          <version>0.3.5</version>
+          <executions>
+            <execution>
+              <id>default-generate</id>
+              <phase>generate-resources</phase>
+              <goals>
+                <goal>generate</goal>
+              </goals>
+            </execution>
+          </executions>
+          <dependencies>
+            <!-- AsciiDoc content support -->
+            <dependency>
+              <groupId>org.asciidoctor</groupId>
+              <artifactId>asciidoctorj</artifactId>
+              <version>2.4.3</version>
+            </dependency>
+
+            <!-- Markdown content support -->
+            <dependency>
+              <groupId>com.vladsch.flexmark</groupId>
+              <artifactId>flexmark</artifactId>
+              <version>0.62.2</version>
+            </dependency>
+            <dependency>
+              <groupId>com.vladsch.flexmark</groupId>
+              <artifactId>flexmark-profile-pegdown</artifactId>
+              <version>0.62.2</version>
+            </dependency>
+
+            <!-- Freemarker template support -->
+            <dependency>
+              <groupId>org.freemarker</groupId>
+              <artifactId>freemarker</artifactId>
+              <version>2.3.31</version>
+            </dependency>
+          </dependencies>
+        </plugin>
+
       </plugins>
     </pluginManagement>
   </build>
