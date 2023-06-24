@@ -1,17 +1,34 @@
 <#include "header.ftl">
 
-	<#include "menu.ftl">
+<#include "menu.ftl">
 
-	<#if (content.title)??>
-	<div class="page-header">
-		<h1>${content.title}</h1>
-	</div>
-	<#else></#if>
+		<!-- Page Header Start -->
+		<div class="page-header">
+			<div class="container">
+				<div class="page-header-inner">
+					<ol class="breadcrumb wow fadeInDown" data-wow-delay="300ms">
+						<li><a href="index.html">Principal</a></li>
+						<li class="page">${content.title}</li>
+					</ol>
+					<h1 class="page-title wow fadeInRight" data-wow-delay="300ms">
+						${content.title}
+					</h1>
+				</div>
+			</div>
+		</div>
+		<!-- Page Header End-->
+		<section id="${content.title}" class="section">
 
-	<p><em>${content.date?string("dd MMMM yyyy")}</em></p>
+		  <div class="container">
+		<div class="row">
+		${content.body}
 
-	<p>${content.body}</p>
+		</div>
+	  </div>
 
-	<hr />
+	</section>
+
+
+
 
 <#include "footer.ftl">
