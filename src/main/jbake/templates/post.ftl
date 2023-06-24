@@ -27,7 +27,7 @@ display: inline;
 			<div class="col-md-10 col-sm-10 col-xs-12">
 			<h1 class="page-title wow fadeInRight" data-wow-delay="300ms">
 				
-				${content.title}
+				${content.title} <#if (content.language)??>- ${content.language}<#else></#if>
 			</h1>
 			</div>
 			</div>
@@ -38,34 +38,33 @@ display: inline;
 <section id="${content.title}" class="section">
 
 	<div class="container">
-<div class="row">
-	<div class="col-md-4 col-sm-4 col-xs-12">
-		<div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
-			<#if (content.img)??>
-				<img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/post/${content.img}" alt="" width="500px">
-			<#else>
-				<img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/post/duke2023.jpg" alt="" width="500px">
-			</#if>
-		</div>
-	</div>
-	<div class="col-md-6 col-sm-6 col-xs-12">
-		<#if (content.twitter)??>
-		<a class="twitter-timeline" data-height="400" href="https://twitter.com/${content.twitter}?ref_src=twsrc%5Etfw">Tweets by ${content.twitter}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-		<#else></#if>
-	</div>
-</div>
+
 <div class="row">
 	<div class="col-md-12 col-sm-12 col-xs-12">
 	${content.body}
 	</div>
 </div>
 
-
+<div class="row">
+	<div class="col-md-4 col-sm-4 col-xs-12">
+		<div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+			<#if (content.img)??>
+				<img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/post/${content.img}" alt="" width="500px">
+			<#else>
+				<img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/post/duke2023.png" alt="" width="500px">
+			</#if>
+		</div>
+	</div>
+	<div class="col-md-6 col-sm-6 col-xs-12">
+		<#if (content.twitter)??>
+			<a class="twitter-timeline" data-height="400" href="https://twitter.com/${content.twitter}?ref_src=twsrc%5Etfw">Tweets by ${content.twitter}</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+		<#else></#if>
+	</div>
+</div>
 
 <div class="row">
 	<!-- I got these buttons from simplesharebuttons.com -->
 	<div id="share-buttons">
-
 
 	    <!-- Email -->
 	    <a href="mailto:?Subject=Come to JConf 2023 ${content.uri}">
@@ -75,11 +74,6 @@ display: inline;
 	    <!-- Facebook -->
 	    <a href="http://www.facebook.com/sharer.php?u=http://guate-jug.net/jconf2023/${content.uri}" target="_blank">
 	        <img src="https://simplesharebuttons.com/images/somacro/facebook.png" alt="Facebook" />
-	    </a>
-
-	    <!-- Google+ -->
-	    <a href="https://plus.google.com/share?url=http://guate-jug.net/jconf2023/${content.uri}" target="_blank">
-	        <img src="https://simplesharebuttons.com/images/somacro/google.png" alt="Google" />
 	    </a>
 
 	    <!-- LinkedIn -->

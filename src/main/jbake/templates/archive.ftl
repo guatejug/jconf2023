@@ -13,7 +13,7 @@
 <p>13:00-14:00</p>
 </div>
 
-	<div class="container">
+<!--div class="container">
   <ul class="nav nav-tabs">
   <li class="active"><a data-toggle="tab" href="#home">Main stage</a></li>
   <li><a data-toggle="tab" href="#menu1">Begginers-303</a></li>
@@ -326,7 +326,7 @@
   </div>
 </div>
 </div>
-</section>
+</section-->
 
 <section id="Presentations list" class="section">
 	<div class="container">
