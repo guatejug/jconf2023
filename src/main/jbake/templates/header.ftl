@@ -25,7 +25,8 @@
     <link rel="stylesheet" type="text/css" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/animate.css">
     <!-- Owl carousel -->
     <link rel="stylesheet" type="text/css" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/owl.carousel.css">
-
+    <!-- Flag icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/lipis/flag-icons@6.6.6/css/flag-icons.min.css"/>
     <!-- Color CSS Styles  -->
     <link rel="stylesheet" type="text/css" href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>css/colors/blue.css" media="screen" />
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->

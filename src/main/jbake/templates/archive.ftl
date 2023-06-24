@@ -344,7 +344,7 @@
 					<ul>
 				</#if>
 
-				<li><a href="${content.rootpath}${post.uri}"><#escape x as x?xml>${post.title} <#if (post.language)??>- ${post.language}<#else></#if> </#escape></a></li>
+				<li><a href="${content.rootpath}${post.uri}"><#escape x as x?xml>${post.title}<#if (post.countryiso)??> <span class="fi fi-${post.countryiso}"></span></#if>  <#if (post.language)??>- ${post.language}<#else></#if> </#escape></a></li>
 				<#assign last_tag = post.category>
 				</#list>
 			</ul>

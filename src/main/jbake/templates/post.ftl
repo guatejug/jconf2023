@@ -27,7 +27,7 @@ display: inline;
 			<div class="col-md-10 col-sm-10 col-xs-12">
 			<h1 class="page-title wow fadeInRight" data-wow-delay="300ms">
 				
-				${content.title} <#if (content.language)??>- ${content.language}<#else></#if>
+				${content.title}<#if (content.countryiso)??> <span class="fi fi-${content.countryiso}"></span></#if> <#if (content.language)??>- ${content.language}<#else></#if>
 			</h1>
 			</div>
 			</div>

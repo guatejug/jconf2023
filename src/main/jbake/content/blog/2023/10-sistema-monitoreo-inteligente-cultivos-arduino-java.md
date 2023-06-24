@@ -7,6 +7,7 @@ category=Small and not so small Java
 twitter=guatejug
 img=aaron.jpg
 language=Español
+countryiso=cr
 ~~~~~~
 ## Description
 

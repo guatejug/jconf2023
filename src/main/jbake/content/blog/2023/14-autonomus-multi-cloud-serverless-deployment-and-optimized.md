@@ -6,6 +6,7 @@ status=published
 category=Tools, architecture and strategies
 twitter=guatejug
 language=English
+countryiso=pl
 ~~~~~~
 ## Description
 
