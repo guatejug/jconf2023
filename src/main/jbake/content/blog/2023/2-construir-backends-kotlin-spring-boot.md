@@ -17,8 +17,8 @@ countryiso=co
 
 **Geovanny Mendoza**
 
-* Ingeniero de Software, especializado en ecosistemas Java y Kotlin.
-* Capacidad de autogestión, Proactividad y Capacidad de presentación
+* Ingeniero de Software, especializado en los ecosistemas de Java y Kotlin.
+* Capacidad de autogestión, presentación y proactivo.
 * Experiencia en el desarrollo backend, CI/CD, bases de datos, SQL, NoSQL, AWS y tecnologías de Spring.
 
 ## Social Media
