@@ -96,7 +96,7 @@
         </div>
         <div class="desc">
         <h4>Speakers</h4>
-        <p>Back to our roots, 8 talks from and by the community.</p>
+        <p>Back to our roots, 20 talks from and by the community.</p>
         </div>
         </div>
         </div>
@@ -107,7 +107,7 @@
         </div>
         <div class="desc left">
         <h4>Tickets</h4>
-        <p>100 free tickets</p>
+        <p><a href="https://www.guate-jug.net/jconf2023/registration.html"> 200 free tickets</a></p>
         </div>
         </div>
         </div>
