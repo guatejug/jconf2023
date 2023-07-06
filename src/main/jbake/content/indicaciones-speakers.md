@@ -16,20 +16,19 @@ http://guate-jug.net/jconf2023/archive.html
 
 ## Llegada y estadía en Guatemala
 
-Les recordamos nuevamente que el evento se llevara a cabo el día **sábado 9 de noviembre**. Nuestra sugerencia es que su fecha de salida sea **lunes 11 de noviembre** ya que tendremos un paseo preparado para el domingo 10.
+Les recordamos nuevamente que el evento se llevara a cabo el día **sábado 5 de agosto**. Nuestra sugerencia es que su fecha de salida sea **lunes 7 de agosto** ya que tendremos un evento especial preparado para el domingo 6.
 
 ## Comunicación inmediata
 
-Para los que deseen tener comunicación inmediata se ha habilitado un grupo de WhatsApp exclusivo para speakers y organización:
+Para los que deseen tener comunicación inmediata se ha habilitado un grupo de Telegram exclusivo para speakers y organización:
 
-https://chat.whatsapp.com/FoohakF8hpIAzo34kway8h
-
+https://t.me/+5s4No0wejvE2OTgx
 
 ## Lugar y estacionamiento
 
-Los salones cuentan con proyector VGA, conexión eléctrica y en el caso del "main stage" cuenta con amplificación de audio. Se contara con una conexión a internet EXCLUSIVA para speakers por lo que les pedimos no compartir el password durante la conferencia.
+Los salones cuentan con proyector HDMI, conexión eléctrica y en el caso del "main stage" cuenta con amplificación de audio. Se contara con una conexión a internet EXCLUSIVA para speakers por lo que les pedimos no compartir el password durante la conferencia.
 
-Cada uno de los salones tendrá un voluntario de Java Day asignados para asistirlos durante la preparación del salón y la conexión. Si sus charlas son patrocinadas, se cuenta con autorización para regalar souvenirs que consideren convenientes.
+Cada uno de los salones tendrá un voluntario de JConf asignado para asistirlos durante la preparación del salón y la conexión. Si sus charlas son patrocinadas, se cuenta con autorización para regalar souvenirs que consideren convenientes.
 
 Les recordamos que el evento se llevara a cabo en el CENTRO TICS del INTECAP
 
@@ -49,7 +48,6 @@ Los comercios con POS Bac suelen soportar cualquier emisor de tarjeta (VISA, Mas
 
 La ciudad capital cuenta con tres tipos de transporte público:
 
-
 - Transmetro - https://rutastransmetro.muniguate.com/
 - Transurbano - https://es.wikipedia.org/wiki/Transurbano
 - Buses urbanos (identificables por el color rojo)
@@ -58,13 +56,14 @@ El transmetro es considerado seguro, por lo que pueden utilizarlo de ser necesar
 
 NO RECOMENDAMOS bajo ningún motivo que tomen un bus urbano o un transurbano, ya que suelen ser incómodos y peligrosos.
 
-Adicionalmente Guatemala cuenta con tres sistemas de Taxi:
+Adicionalmente Guatemala cuenta con cuatro sistemas de Taxi:
 
 * Rotativos (blancos)
 * De alquiler (amarillos y verdes) - http://www.amarilloexpress.com/
 * Uber
+* Indrive
 
-Los taxis blancos solo aceptan dinero en efectivo y suelen tener cobros muy variables con extranjeros por lo que NO LOS RECOMENDAMOS, mientras que los taxis amarillos y uber aceptan dinero en efectivo y tarjetas de crédito.
+Los taxis blancos solo aceptan dinero en efectivo y suelen tener cobros muy variables con extranjeros por lo que NO LOS RECOMENDAMOS, mientras que los taxis amarillos, indrive y uber aceptan dinero en efectivo y tarjetas de crédito.
 
 ## Zonas seguras e inseguras de la ciudad capital
 
@@ -76,11 +75,24 @@ La ciudad capital está dividida en zonas, que van desde la z1 hasta la z25. Las
 * Zona 9
 * Zona 10
 * Zona 13
-* Zona 14
 * Zona 15
+* Zona 16
 
 Para los interesados en realizar turismo en el centro histórico(zona 1), el área más segura son las calles aledañas al paseo de la 6ta:
 
 https://es.wikipedia.org/wiki/Paseo_de_la_Sexta
 
 Sin embargo nuestra recomendación es no portar objetos de valor visibles y antes de ir hacia algún lugar consultar con alguno de los organizadores al respecto.
+
+## Opciones de hospedaje recomendadas
+
+Las zonas hoteleras con mejores opciones en Guatemala son las zonas 4, 9, 10, 13 y 15. Todas se encuentran a 15-20 minutos del evento via automovil.
+ 
+Guatemala cuenta con hoteles de cadena tales como [Hilton](https://www.hilton.com/es/hotels/guallhh-hilton-guatemala-city/), [Barceló](https://www.barcelo.com/es-ww/barcelo-guatemala-city/), [Marriot](https://www.marriott.com/es/hotels/guawi-the-westin-camino-real-guatemala/overview/), [Ihg](https://www.ihg.com/intercontinental/hotels/us/es/guatemala-city/guaha/hoteldetail) y [Holiday Inn](https://www.ihg.com/holidayinn/hotels/us/es/ciudad-de-guatemala/guact/hoteldetail).
+ 
+Así mismo, la zona 4 es la zona bohemia de la capital de Guatemala y [uno de los mejores barrios de LATAM](https://hellosafe.com.mx/blog/mejores-barrios-latam). Por lo que hay en las cercanias diversas opciones en plataformas como Airbnb o Booking.com
+
+En esta linea, los siguientes hospedajes se encuentran en cercanias del evento:
+
+* [Conquistador hotel](https://hotelconquistador.com.gt/)
+* [AirBnb](https://www.airbnb.com.gt/s/Zona-4--Guatemala/homes?adults=1&place_id=ChIJyV75XC6iiYURIWfoIsTwOyA&refinement_paths%5B%5D=%2Fhomes)
