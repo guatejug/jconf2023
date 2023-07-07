@@ -14,6 +14,12 @@ En el siguiente enlace encontraran el horario asignado a su presentación, por f
 http://guate-jug.net/jconf2023/archive.html
 
 
+## Material gráfico
+
+Estaremos públicando material gráfico en el siguiente enlace para que puedan utilizarlo en su presentación y/o difusión del evento
+
+https://drive.google.com/drive/folders/1ECSq8a8akxv77fNgA9xKKHAUP7YjoR4S
+
 ## Llegada y estadía en Guatemala
 
 Les recordamos nuevamente que el evento se llevara a cabo el día **sábado 5 de agosto**. Nuestra sugerencia es que su fecha de salida sea **lunes 7 de agosto** ya que tendremos un evento especial preparado para el domingo 6.
@@ -44,17 +50,18 @@ Guatemala es uno de los países con mayor manejo de tarjeta de crédito en Amér
 
 Los comercios con POS Bac suelen soportar cualquier emisor de tarjeta (VISA, Master Card, American Express, Dinners Club), mientras que los comercios con VISA suelen soportar únicamente tarjetas populares (VISA, Master Card y American Express).
 
+Adicionalmente algunos comercios de la capital aceptan Bitcoin, pero de momento es más una curiosidad que un medio universal de pago.
+
 ## Transporte público en Guatemala
 
-La ciudad capital cuenta con tres tipos de transporte público:
+La ciudad capital cuenta con dos tipos de transporte público:
 
 - Transmetro - https://rutastransmetro.muniguate.com/
 - Transurbano - https://es.wikipedia.org/wiki/Transurbano
-- Buses urbanos (identificables por el color rojo)
 
 El transmetro es considerado seguro, por lo que pueden utilizarlo de ser necesario.
 
-NO RECOMENDAMOS bajo ningún motivo que tomen un bus urbano o un transurbano, ya que suelen ser incómodos y peligrosos.
+NO RECOMENDAMOS bajo ningún motivo que tomen un bus urbano, ya que suelen ser incómodos y peligrosos.
 
 Adicionalmente Guatemala cuenta con cuatro sistemas de Taxi:
 

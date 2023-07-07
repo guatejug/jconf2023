@@ -1,4 +1,4 @@
-title=Construir un Backends Con Kotlin y Spring Boot
+title=Construir un Backend Con Kotlin y Spring Boot
 date=2023-06-24
 type=post
 tags=Server side

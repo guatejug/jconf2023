@@ -13,12 +13,11 @@
 <p>13:00-14:00</p>
 </div>
 
-<!--div class="container">
+<div class="container">
   <ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#home">Main stage</a></li>
-  <li><a data-toggle="tab" href="#menu1">Begginers-303</a></li>
-  <li><a data-toggle="tab" href="#menu2">Intermediate-Fablab 4to.</a></li>
-  <li><a data-toggle="tab" href="#menu3">Advanced-302</a></li>
+  <li class="active"><a data-toggle="tab" href="#home">Auditorium</a></li>
+  <li><a data-toggle="tab" href="#menu1">Salon 1 (TBD)</a></li>
+  <li><a data-toggle="tab" href="#menu2">Salon 2 (TBD)</a></li>
 </ul>
 
 
@@ -31,224 +30,252 @@
         <th>Time slot</th>
         <th>Talk</th>
         <th>Presenter</th>
+		<th>Level</th>
       </tr>
     </thead>
     <tbody>
 	  <tr>
         <td>09:00-10:00</td>
         <td>
-          <a href="http://www.guate-jug.net/jconf2023/blog/2023/20-spring-webflux-nosql.html">
-          Go Reactive with Spring WebFlux & NoSQL
+          <a href="${content.rootpath}/blog/2023/15-entendiendo-servicios-rest-java-2023.html">
+            Entendiendo los Servicios REST con Java en el 2023 - Español
           </a>
         </td>
-        <td>Erick Orozco Garma</td>
+        <td>Omar Berroterán Silva <span class="fi fi-ni"></span></td>
+          <td>Beginners</td>
       </tr>
 	  <tr>
         <td>10:00-11:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/11-quarkus-supersonic.html">
-      Quarkus - Supersonic Java
-		</a>
-		</td>
-        <td>Gerardo Arroyo Arce</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/9-patrones-0-100-java.html">
+                  Patrones de diseño de 0 a 100 en Java 17 - Español
+              </a>
+          </td>
+          <td>Pablo Medrano <span class="fi fi-gt"></span></td>
+          <td>Beginners</td>
       </tr>
 	  <tr>
         <td>11:00-12:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/3-despliegue-kubernetes-multinube.html">
-		Despliegue de aplicaciones en Kubernetes con Herramienta Devops en Oracle Cloud
-		</a>
-		</td>
-        <td>José Diaz</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/12-uso-flexibles-queries-jpa-spring3.html">
+                  Uso flexible queries con JPA en Spring 3 - Español
+              </a>
+          </td>
+          <td>Marcos Luna <span class="fi fi-gt"></span></td>
+          <td>Intermediate-Advanced</td>
       </tr>
 	  <tr>
         <td>12:00-13:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/7-integracion-sistemas-javaee.html">
-		Integración entre Sistemas Empresariales usando Java EE
-		</a>
-		</td>
-        <td>Julian Rivera-Pineda</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/4-know-how-Jakarta-EE-cloud-native-application-looks.html">
+                  Do you know how a Jakarta EE cloud-native application looks? - Español
+              </a>
+          </td>
+          <td>Fabio Andrés Turizo Correa <span class="fi fi-co"></span></td>
+          <td>Intermediate-Advanced</td>
       </tr>
 	  <tr>
         <td>14:00-15:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/5-fun-kubernetes-payara-micro.html">
-		Fun with Kubernetes and Payara Micro 5
-		</a>
-		</td>
-        <td>Fabio Turizo</td>
+          <td>
+              <a href="${content.rootpath}">
+                  -TBD-
+              </a>
+          </td>
+          <td>Java Duke <span class="fi fi-un"></span></td>
+          <td>Everywhere</td>
       </tr>
 	  <tr>
         <td>15:00-16:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/13-microservicios-nomad.html">
-		Simplificando la instalación de microservicios con Nomad
-		</a>
-		</td>
-        <td>Esaú Leví Betancourt Salazar</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/11-spring-boot-full-stack-developers.html">
+                  Spring Boot para Full Stack Developers - Español
+              </a>
+          </td>
+          <td>José Díaz <span class="fi fi-pe"></span></td>
+          <td>Beginners</td>
       </tr>
       <tr>
-        <td>16:00-17:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/27-mvp-life.html">
-      The MVP Life and How to Avoid it
-		</a>
-		</td>
-        <td>Boris Ruiz</td>
+          <td>16:00-17:00</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/2-construir-backends-kotlin-spring-boot.html">
+                  Construir un Backends Con Kotlin y Spring Boot - Español
+              </a>
+          </td>
+          <td>Geovanny Mendoza <span class="fi fi-co"></span></td>
+          <td>Intermediate-Advanced</td>
       </tr>
 	  <tr>
     </tbody>
   </table>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Begginers - 303</h3>
-    <table class="table">
-    <thead>
-      <tr>
-        <th>Time slot</th>
-        <th>Talk</th>
-        <th>Presenter</th>
-      </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td>09:00-10:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/21-java-collectios-intro.html">
-		Java Collections 101
-		</a>
-        <td>Sandy Merida</td>
-      </tr>
-	  <tr>
-        <td>10:00-11:00</td>
-        <td>
-          <a href="http://www.guate-jug.net/jconf2023/blog/2023/26-java-poo.html">
-          Fundamentos de POO con Java
-          </a>
-        </td>
-        <td>Maria Castillo</td>
-      </tr>
-	  <tr>
-        <td>11:00-12:00</td>
-        <td>
-          <a href="http://www.guate-jug.net/jconf2023/blog/2023/28-kotlin-coroutines.html">
-            Hakuna Matata: Koin, Koroutines & all the Kotlin love for Android
-          </a>
-        </td>
-        <td>Adrian Catalan</td>
-      </tr>
-	  <tr>
-        <td>12:00-13:00</td>
-        <td>
-          <a href="http://www.guate-jug.net/jconf2023/blog/2023/25-java-openapi.html">
-            Documentación de APIs Java con OpenAPI
-          </a>
-        </td>
-        <td>Edgar Vicente Suc</td>
-      </tr>
-	  <tr>
-        <td>14:00-15:00</td>
-        <td>
-          <a href="http://www.guate-jug.net/jconf2023/blog/2023/24-ide-java.html">
-          Eligiendo tu IDE en Java
-          </a>
-        </td>
-        <td>Mario Batres</td>
-      </tr>
-	  <tr>
-        <td>15:00-16:00</td>
-        <td>
-          <a href="http://www.guate-jug.net/jconf2023/blog/2023/23-android-rest.html">
-          Como conectar tu aplicación Android a la web y no morir en el intento
-          </a>
-        </td>
-        <td>Max Cerna</td>
-      </tr>
-      <tr>
-        <td>16:00-17:00</td>
-        <td>
-          <a>
-          Creación de aplicaciones interactivas con JavaFX
-          </a>
-        </td>
-        <td>Aldo Ebany Pérez Larios</td>
-      </tr>
-    </tbody>
-  </table>
+    <h3>Salon 1 - (TBD)</h3>
+      <table class="table">
+          <thead>
+          <tr>
+              <th>Time slot</th>
+              <th>Talk</th>
+              <th>Presenter</th>
+              <th>Level</th>
+          </tr>
+          </thead>
+          <tbody>
+          <tr>
+              <td>09:00-10:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/13-webassembly-on-everything-everywhere-all-at-once.html">
+                      WebAssembly: On everything, everywhere all at once - Español
+                  </a>
+              </td>
+              <td>Alvin Estrada <span class="fi fi-gt"></span></td>
+              <td>Intermediate-Advanced</td>
+          </tr>
+          <tr>
+              <td>10:00-11:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/10-sistema-monitoreo-inteligente-cultivos-arduino-java.html">
+                      Sistema de Monitoreo Inteligente para Cultivos utilizando Arduino y Java - Español
+                  </a>
+              </td>
+              <td>Aaron Galagarza Carrillo <span class="fi fi-cr"></span></td>
+              <td>Beginners</td>
+          </tr>
+          <tr>
+              <td>11:00-12:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/8-multi-modulariza-android-app.html">
+                      Multi-Modulariza tu Android App! - Español
+                  </a>
+              </td>
+              <td>Mario Moreno <span class="fi fi-gt"></span></td>
+              <td>Intermediate-Advanced</td>
+          </tr>
+          <tr>
+              <td>12:00-13:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/6-java-grafos-neo4j.html">
+                      Java y grafos. Iniciemos con Neo4j. - Español
+                  </a>
+              </td>
+              <td>Isaac Ruiz Guerra <span class="fi fi-mx"></span></td>
+              <td>Intermediate-Advanced</td>
+          </tr>
+          <tr>
+              <td>14:00-15:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/14-autonomus-multi-cloud-serverless-deployment-and-optimized.html">
+                      Autonomous Multi-Cloud serverless deployment and optimized management - English
+                  </a>
+              </td>
+              <td>Paweł Skrzypek <span class="fi fi-pl"></span></td>
+              <td>Intermediate-Advanced</td>
+          </tr>
+          <tr>
+              <td>15:00-16:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/7-mejorando-seguridad-open-source-java-devsecops.html">
+                      Mejorando la seguridad de los proyectos Open Source en el ecosistema Java con DevSecOps - Español
+                  </a>
+              </td>
+              <td>Cesar Hernandez <span class="fi fi-gt"></span></td>
+              <td>Intermediate-Advanced</td>
+
+          </tr>
+          <tr>
+              <td>16:00-17:00</td>
+              <td>
+                  <a href="${content.rootpath}/blog/2023/5-escribiendo-codigo-cohesivo-ddd.html">
+                      Escribiendo codigo cohesivo con DDD - Español
+                  </a>
+              </td>
+              <td>Oliver Sierra <span class="fi fi-gt"></span></td>
+              <td>Beginners</td>
+          </tr>
+          <tr>
+          </tbody>
+      </table>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Intermediate - Fablab 4to nivel</h3>
+    <h3>Salon 2 (TBD)</h3>
     <table class="table">
     <thead>
       <tr>
         <th>Time slot</th>
         <th>Talk</th>
         <th>Presenter</th>
+          <th>Level</th>
       </tr>
     </thead>
     <tbody>
 	  <tr>
         <td>09:00-10:00</td>
-        <td>
-		<a >
-      TBD
-		</a>
-		</td>
-        <td>TBD</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/3-desbloquea-poder-programacion-funcional-java.html">
+                  Desbloquea el Poder de la Programación Funcional en Java - Español
+              </a>
+          </td>
+          <td>Max Cerna <span class="fi fi-gt"></span></td>
+          <td>Beginners</td>
       </tr>
 	  <tr>
         <td>10:00-11:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/15-digital-signature.html">
-		The Advanced Digital Signature - CANCELADO
-		</a>
-        <td>Gustavo Adolfo de León Pineda</td>
+          <td>
+              <a href="${content.rootpath}/blog/2023/16-sos-technical-debt.html">
+                  Keeping the boat afloat! SOS Technical Debt - Español
+              </a>
+          </td>
+          <td>Francisco Contreras <span class="fi fi-ni"></span></td>
+          <td>Beginners</td>
       </tr>
 	  <tr>
         <td>11:00-12:00</td>
-        <td>
-			<a href="http://www.guate-jug.net/jconf2023/blog/2023/22-knockout-js-tomcat.html">
-			Knockoutjs: un duro golpe al tiempo de desarrollo web en Java
-			</a>
-		</td>
-        <td>Marco Monzón</td>
+          <td>
+              <a href="${content.rootpath}">
+                  -TBD-
+              </a>
+          </td>
+          <td>Java Duke <span class="fi fi-un"></span></td>
+          <td>Everywhere</td>
       </tr>
 	  <tr>
         <td>12:00-13:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/9-spring-data-querydsl.html">
-		Introducción a Spring Data y Querydsl
-		</a>
-		</td>
-        <td>Marvin Wilfredo Ajcuc Cuzco</td>
+          <td>
+              <a href="${content.rootpath}">
+                  -TBD-
+              </a>
+          </td>
+          <td>Java Duke <span class="fi fi-un"></span></td>
+          <td>Everywhere</td>
       </tr>
 <tr>
         <td>14:00-15:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/19-despliegue-automatico-aplicaciones.html">
-		Despliegue Automático de Aplicaciones
-		</a>
-		</td>
-        <td>Eduardo Palacios</td>
+    <td>
+        <a href="${content.rootpath}">
+            -TBD-
+        </a>
+    </td>
+    <td>Java Duke <span class="fi fi-un"></span></td>
+    <td>Everywhere</td>
       </tr>
       <tr>
         <td>15:00-16:00</td>
-        <td>
-          <a>
-          De Java 8 a Java 13
-          </a>
-        </td>
-        <td>Jorge Alejandro Cajas</td>
+          <td>
+              <a href="${content.rootpath}">
+                  -TBD-
+              </a>
+          </td>
+          <td>Java Duke <span class="fi fi-un"></span></td>
+          <td>Everywhere</td>
       </tr>
       <tr>
         <td>16:00-17:00</td>
-        <td>
-		<a>
-		TBD
-		</a>
-		</td>
-        <td>TBD</td>
+          <td>
+              <a href="${content.rootpath}">
+                  -TBD-
+              </a>
+          </td>
+          <td>Java Duke <span class="fi fi-un"></span></td>
+          <td>Everywhere</td>
       </tr>
 
 	  
@@ -256,77 +283,9 @@
     </tbody>
   </table>
   </div>
-  <div id="menu3" class="tab-pane fade">
-    <h3>Advanced - 302</h3>
-    <table class="table">
-    <thead>
-      <tr>
-        <th>Time slot</th>
-        <th>Talk</th>
-        <th>Presenter</th>
-      </tr>
-    </thead>
-    <tbody>
-	  <tr>
-        <td>09:00-10:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/10-kotlin-build-script.html">
-      Kotlin Everywhere, even in your build script!
-		</a>
-		</td>
-        <td>Jimmy Morales</td>
-      </tr>
-	  <tr>
-        <td>10:00-11:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/12-securing-auth0.html">
-		Securing Microservices in less than 40 minutes with Auth0 and MicroProfile
-		</a>
-        <td>Fabio Turizo</td>
-      </tr>
-	  <tr>
-        <td>11:00-12:00</td>
-        <td>
-			<a href="http://www.guate-jug.net/jconf2023/blog/2023/16-uso-metricas-aplicaciones.html">
-			Uso de métricas en aplicaciones
-			</a>
-		</td>
-        <td>Francisco Castellanos - Jorge Alvarez</td>
-      </tr>
-      
-	  <tr>
-        <td>12:00-13:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/14-testing-java-microservices.html">
-		Testing Java Microservices
-		</a>
-		</td>
-        <td>Victor Lopez</td>
-      </tr>
-<tr>
-        <td>14:00-15:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/2-pipelines-drone.html">
-		Creando Pipelines para integración y despliegue continuo con Drone
-		</a>
-		</td>
-        <td>David Recinos</td>
-      </tr>
-        <td>15:00-17:00</td>
-        <td>
-		<a href="http://www.guate-jug.net/jconf2023/blog/2023/18-workshop-microprofile.html">
-		Workshop: Desarrollo de microservicios en Java con MicroProfile
-		</a>
-		</td>
-        <td>Cesar Hernandez - José Diaz</td>
-      </tr>
-
-    </tbody>
-  </table>
-  </div>
 </div>
 </div>
-</section-->
+</section>
 
 <section id="Presentations list" class="section">
 	<div class="container">
