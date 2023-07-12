@@ -44,6 +44,7 @@
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
                 <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Guatemala</a></li>
+                <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>presskit.html">Press Kit</a></li>
               </ul>
             </div><!-- /navbar-collapse -->
           </div><!-- /container -->
@@ -57,6 +58,7 @@
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>venue.html">Venue</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>about.html">About</a></li>
             <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>guatemala.html">Guatemala</a></li>
+            <li><a href="<#if (content.rootpath)??>${content.rootpath}<#else></#if>presskit.html">Press Kit</a></li>
            </ul>
           <!-- Mobile Menu End -->
         </nav>
