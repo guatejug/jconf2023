@@ -37,7 +37,7 @@
 	  <tr>
         <td>09:00-10:00</td>
         <td>
-          <a href="${content.rootpath}/blog/2023/15-entendiendo-servicios-rest-java-2023.html">
+          <a href="${content.rootpath}/jconf2023/blog/2023/15-entendiendo-servicios-rest-java-2023.html">
             Entendiendo los Servicios REST con Java en el 2023 - Español
           </a>
         </td>
@@ -47,7 +47,7 @@
 	  <tr>
         <td>10:00-11:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/9-patrones-0-100-java.html">
+              <a href="${content.rootpath}/jconf2023/blog/2023/9-patrones-0-100-java.html">
                   Patrones de diseño de 0 a 100 en Java 17 - Español
               </a>
           </td>
@@ -57,7 +57,7 @@
 	  <tr>
         <td>11:00-12:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/12-uso-flexibles-queries-jpa-spring3.html">
+              <a href="${content.rootpath}/jconf2023/blog/2023/12-uso-flexibles-queries-jpa-spring3.html">
                   Uso flexible queries con JPA en Spring 3 - Español
               </a>
           </td>
@@ -67,7 +67,7 @@
 	  <tr>
         <td>12:00-13:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/4-know-how-Jakarta-EE-cloud-native-application-looks.html">
+              <a href="${content.rootpath}/jconf2023/blog/2023/4-know-how-Jakarta-EE-cloud-native-application-looks.html">
                   Do you know how a Jakarta EE cloud-native application looks? - Español
               </a>
           </td>
@@ -87,7 +87,7 @@
 	  <tr>
         <td>15:00-16:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/11-spring-boot-full-stack-developers.html">
+              <a href="${content.rootpath}/jconf2023/blog/2023/11-spring-boot-full-stack-developers.html">
                   Spring Boot para Full Stack Developers - Español
               </a>
           </td>
@@ -97,7 +97,7 @@
       <tr>
           <td>16:00-17:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/2-construir-backends-kotlin-spring-boot.html">
+              <a href="${content.rootpath}/jconf2023/blog/2023/2-construir-backends-kotlin-spring-boot.html">
                   Construir un Backends Con Kotlin y Spring Boot - Español
               </a>
           </td>
@@ -123,7 +123,7 @@
           <tr>
               <td>09:00-10:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/13-webassembly-on-everything-everywhere-all-at-once.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/13-webassembly-on-everything-everywhere-all-at-once.html">
                       WebAssembly: On everything, everywhere all at once - Español
                   </a>
               </td>
@@ -133,7 +133,7 @@
           <tr>
               <td>10:00-11:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/10-sistema-monitoreo-inteligente-cultivos-arduino-java.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/10-sistema-monitoreo-inteligente-cultivos-arduino-java.html">
                       Sistema de Monitoreo Inteligente para Cultivos utilizando Arduino y Java - Español
                   </a>
               </td>
@@ -143,7 +143,7 @@
           <tr>
               <td>11:00-12:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/8-multi-modulariza-android-app.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/8-multi-modulariza-android-app.html">
                       Multi-Modulariza tu Android App! - Español
                   </a>
               </td>
@@ -153,7 +153,7 @@
           <tr>
               <td>12:00-13:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/6-java-grafos-neo4j.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/6-java-grafos-neo4j.html">
                       Java y grafos. Iniciemos con Neo4j. - Español
                   </a>
               </td>
@@ -163,7 +163,7 @@
           <tr>
               <td>14:00-15:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/14-autonomus-multi-cloud-serverless-deployment-and-optimized.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/14-autonomus-multi-cloud-serverless-deployment-and-optimized.html">
                       Autonomous Multi-Cloud serverless deployment and optimized management - English
                   </a>
               </td>
@@ -173,7 +173,7 @@
           <tr>
               <td>15:00-16:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/7-mejorando-seguridad-open-source-java-devsecops.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/7-mejorando-seguridad-open-source-java-devsecops.html">
                       Mejorando la seguridad de los proyectos Open Source en el ecosistema Java con DevSecOps - Español
                   </a>
               </td>
@@ -184,7 +184,7 @@
           <tr>
               <td>16:00-17:00</td>
               <td>
-                  <a href="${content.rootpath}/blog/2023/5-escribiendo-codigo-cohesivo-ddd.html">
+                  <a href="${content.rootpath}/jconf2023/blog/2023/5-escribiendo-codigo-cohesivo-ddd.html">
                       Escribiendo codigo cohesivo con DDD - Español
                   </a>
               </td>
@@ -210,7 +210,7 @@
 	  <tr>
         <td>09:00-10:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/3-desbloquea-poder-programacion-funcional-java.html">
+              <a href="${content.rootpath}/jconf2023/blog/2023/3-desbloquea-poder-programacion-funcional-java.html">
                   Desbloquea el Poder de la Programación Funcional en Java - Español
               </a>
           </td>
@@ -220,8 +220,8 @@
 	  <tr>
         <td>10:00-11:00</td>
           <td>
-              <a href="${content.rootpath}/blog/2023/16-sos-technical-debt.html">
-                  Keeping the boat afloat! SOS Technical Debt - Español
+              <a href="${content.rootpath}/jconf2023/blog/2023/16-sos-technical-debt.html">
+                  ¡Mantén el proyecto a flote! Encarando la Deuda Técnica - Español
               </a>
           </td>
           <td>Francisco Contreras <span class="fi fi-ni"></span></td>
