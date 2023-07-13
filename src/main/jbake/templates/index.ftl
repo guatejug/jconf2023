@@ -137,12 +137,25 @@
             <a href="https://www.facebook.com/intecapcentrotics/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/intecap.jpg" alt=""></a>
           </div>
         </div>
+          <div class="col-md-6 col-sm-6 col-xs-12">
+              <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+                  <a href="https://www.mangochango.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/mangochango.png" alt=""></a>
+              </div>
+          </div>
       </div>
         <div class="row">
             <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Master Sponsors</h3>
             <div class="col-md-6 col-sm-6 col-xs-12">
                 <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
                     <a href="https://payara.fish" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/payara.png" alt=""></a>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <h3 class="section-title wow fadeInUp" data-wow-delay="0s">Junior Sponsors</h3>
+            <div class="col-md-4 col-sm-4 col-xs-12">
+                <div class="spnsors-logo wow fadeInUp" data-wow-delay="0.1s">
+                    <a href="https://posfile.com/" target="_blank"><img class="img-responsive center-block" src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>img/sponsors/posfile.png" alt=""></a>
                 </div>
             </div>
         </div>
