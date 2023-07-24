@@ -27,7 +27,7 @@ Finalmente, concluiremos la charla con valiosas recomendaciones y conclusiones b
 
 ## Presenter
 
-**Francisco Contrerasa**
+**Francisco Contreras**
 
 CTO at GInIEm, senior developer, core member of the Java User Group Nicaragua 🇳🇮, Organizer of the Google Developer Group and Flutter Nicaragua, International Speaker, IT lover
 

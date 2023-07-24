@@ -163,21 +163,21 @@
           <tr>
               <td>14:00-15:00</td>
               <td>
-                  <a href="${content.rootpath}/jconf2023/blog/2023/14-autonomus-multi-cloud-serverless-deployment-and-optimized.html">
-                      Autonomous Multi-Cloud serverless deployment and optimized management - English
+                  <a href="${content.rootpath}">
+                      -TBD-
                   </a>
               </td>
-              <td>Paweł Skrzypek <span class="fi fi-pl"></span></td>
-              <td>Intermediate-Advanced</td>
+              <td>Java Duke <span class="fi fi-un"></span></td>
+              <td>Everywhere</td>
           </tr>
           <tr>
               <td>15:00-16:00</td>
               <td>
-                  <a href="${content.rootpath}/jconf2023/blog/2023/7-mejorando-seguridad-open-source-java-devsecops.html">
-                      Mejorando la seguridad de los proyectos Open Source en el ecosistema Java con DevSecOps - Español
+                  <a href="${content.rootpath}/jconf2023/blog/2023/17-spring-boot-3-java-jakarta-ee.html">
+                      Spring Boot 3: De Java EE a Jakarta EE - Español
                   </a>
               </td>
-              <td>Cesar Hernandez <span class="fi fi-gt"></span></td>
+              <td>Roberto Rodríguez <span class="fi fi-ni"></span></td>
               <td>Intermediate-Advanced</td>
 
           </tr>
@@ -228,14 +228,14 @@
           <td>Beginners</td>
       </tr>
 	  <tr>
-        <td>11:00-12:00</td>
+          <td>11:00-12:00</td>
           <td>
-              <a href="${content.rootpath}">
-                  -TBD-
+              <a href="${content.rootpath}/jconf2023/blog/2023/7-mejorando-seguridad-open-source-java-devsecops.html">
+                  Mejorando la seguridad de los proyectos Open Source en el ecosistema Java con DevSecOps - Español
               </a>
           </td>
-          <td>Java Duke <span class="fi fi-un"></span></td>
-          <td>Everywhere</td>
+          <td>Cesar Hernandez <span class="fi fi-gt"></span></td>
+          <td>Intermediate-Advanced</td>
       </tr>
 	  <tr>
         <td>12:00-13:00</td>
