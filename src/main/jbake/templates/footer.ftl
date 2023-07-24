@@ -66,7 +66,8 @@
     <!-- Contact Form Scripts -->
     <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/form-validator.min.js"></script>
     <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/contact-form-script.js"></script>
-
+    <!-- Linkedin -->
+    <script src="https://platform.linkedin.com/badges/js/profile.js"></script>
     <!-- All Js plugin -->
     <script src="<#if (content.rootpath)??>${content.rootpath}<#else></#if>js/main.js"></script>
     <!-- Map JS -->
