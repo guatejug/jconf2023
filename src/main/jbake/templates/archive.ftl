@@ -179,7 +179,6 @@
               </td>
               <td>Roberto Rodríguez <span class="fi fi-ni"></span></td>
               <td>Intermediate-Advanced</td>
-
           </tr>
           <tr>
               <td>16:00-17:00</td>
