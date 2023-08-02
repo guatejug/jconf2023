@@ -133,12 +133,12 @@
           <tr>
               <td>10:00-11:00</td>
               <td>
-                  <a href="${content.rootpath}/jconf2023/blog/2023/10-sistema-monitoreo-inteligente-cultivos-arduino-java.html">
-                      Sistema de Monitoreo Inteligente para Cultivos utilizando Arduino y Java - Español
+                  <a href="${content.rootpath}">
+                      -TBD-
                   </a>
               </td>
-              <td>Aaron Galagarza Carrillo <span class="fi fi-cr"></span></td>
-              <td>Beginners</td>
+              <td>Java Duke <span class="fi fi-un"></span></td>
+              <td>Everywhere</td>
           </tr>
           <tr>
               <td>11:00-12:00</td>
@@ -259,12 +259,12 @@
       <tr>
         <td>15:00-16:00</td>
           <td>
-              <a href="${content.rootpath}">
-                  -TBD-
+              <a href="${content.rootpath}/jconf2023/blog/2023/18-conociendo-women-who-code-guatemala.html">
+                  Conociendo a Women Who Code Guatemala
               </a>
           </td>
-          <td>Java Duke <span class="fi fi-un"></span></td>
-          <td>Everywhere</td>
+          <td>Women Who Code <span class="fi fi-gt"></span></td>
+          <td>Beginners</td>
       </tr>
       <tr>
         <td>16:00-17:00</td>
