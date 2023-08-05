@@ -77,12 +77,12 @@
 	  <tr>
         <td>14:00-15:00</td>
           <td>
-              <a href="${content.rootpath}">
-                  -TBD-
+              <a href="${content.rootpath}/jconf2023/blog/2023/19-preguntame-java">
+                  Preguntame lo que sea de Java
               </a>
           </td>
-          <td>Java Duke <span class="fi fi-un"></span></td>
-          <td>Everywhere</td>
+          <td>JUGs LATAM <span class="fi fi-un"></span></td>
+          <td>Todo público</td>
       </tr>
 	  <tr>
         <td>15:00-16:00</td>
@@ -109,7 +109,7 @@
   </table>
   </div>
   <div id="menu1" class="tab-pane fade">
-    <h3>Salon 1 - (TBD)</h3>
+    <h3>Salon 1 - (302)</h3>
       <table class="table">
           <thead>
           <tr>
@@ -123,12 +123,12 @@
           <tr>
               <td>09:00-10:00</td>
               <td>
-                  <a href="${content.rootpath}/jconf2023/blog/2023/13-webassembly-on-everything-everywhere-all-at-once.html">
-                      WebAssembly: On everything, everywhere all at once - Español
+                  <a href="${content.rootpath}">
+                      -TBD-
                   </a>
               </td>
-              <td>Alvin Estrada <span class="fi fi-gt"></span></td>
-              <td>Intermediate-Advanced</td>
+              <td>Java Duke <span class="fi fi-un"></span></td>
+              <td>Everywhere</td>
           </tr>
           <tr>
               <td>10:00-11:00</td>
@@ -195,7 +195,7 @@
       </table>
   </div>
   <div id="menu2" class="tab-pane fade">
-    <h3>Salon 2 (TBD)</h3>
+    <h3>Salon 2 (303)</h3>
     <table class="table">
     <thead>
       <tr>
